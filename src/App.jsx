@@ -37,7 +37,7 @@ function App() {
       <div className="bg-gray-100 min-h-screen py-10 px-4">
         <div className="w-full max-w-3xl mx-auto bg-white rounded-lg shadow-lg border border-gray-300 p-6">
           <h1 className="text-3xl font-bold text-center text-gray-800 mb-6">
-            Inventory Manager
+            Inventory Management Table
           </h1>
           <div className="mb-6">
             <AddItem />
